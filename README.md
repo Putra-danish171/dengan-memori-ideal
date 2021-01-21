@@ -1,0 +1,2 @@
+# dengan-memori-ideal
+Aplikasi
